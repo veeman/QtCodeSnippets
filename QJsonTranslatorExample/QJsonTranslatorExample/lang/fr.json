@@ -1,0 +1,20 @@
+{
+  "QJsonTranslatorExampleForm": {
+    "QJsonTranslatorExample": "JsonTranslator exemple",
+	"&Exit": "&Quitter",
+	"&File": "&Dossier",
+	"&Language": "&Langue",
+	"Number One:": "Numéro un:",
+	"Number Two:": "Numéro deux:", 
+	"Add": "Ajouter",
+	"Subtract": "Soustraire",
+	"Multiply": "Multiplier",
+	"Divide": "Diviser",
+  },
+  "QJsonTranslatorExample": {
+  	"Error": "Erreur",
+	"Invalid Input": "Saisie incorrecte",
+  	"Result": "Résulter",
+	"The result value is: %1": "Le résultat se lit: %1",
+  },
+}
