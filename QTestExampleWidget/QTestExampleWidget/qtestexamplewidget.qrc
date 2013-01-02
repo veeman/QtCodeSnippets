@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="QTestExampleWidget">
+    <file>Resources/volumeMeter.png</file>
+  </qresource>
+</RCC>

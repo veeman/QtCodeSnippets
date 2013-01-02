@@ -9,10 +9,10 @@ QT += core gui
 CONFIG += release
 DEFINES += QT_LARGEFILE_SUPPORT
 INCLUDEPATH += ./QJsonTranslatorExample/GeneratedFiles \
-    ./QJsonTranslatorExample(GeneratedFiles/Release \
+    ./QJsonTranslatorExample/GeneratedFiles/Release \
     ./QJsonTranslatorExample
 DEPENDPATH += .
-MOC_DIR += ./QJsonTranslatorExample(GeneratedFiles/release
+MOC_DIR += ./QJsonTranslatorExample/GeneratedFiles/release
 OBJECTS_DIR += release
 UI_DIR += ./QJsonTranslatorExample/GeneratedFiles
 RCC_DIR += ./QJsonTranslatorExample/GeneratedFiles
