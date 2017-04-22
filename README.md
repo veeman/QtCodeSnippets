@@ -1,10 +1,10 @@
 # QtCodeSnippets
 Homepage [www.mage-dev.de](http://www.mage-dev.de/)   
-Copyright (c) 2012-2013 Vitalij Mast <mailto:vitalij-mast(at)mage-dev(dot).de>   
+Copyright (c) 2012-2013, 2017 Vitalij Mast <vitalij-mast@mage-dev.de>   
 License see LICENSE file
 
 ## QJsonTranslatorExample
-A demonstration how to use JSON syntax for the translations files in a multilingual application.   
+A demonstration how to use JSON files for the qt translations engine in a multilingual application.   
 For more info see [JSON Wikipedia](http://en.wikipedia.org/wiki/JSON)   
    
 Path: `/QJsonTranslatorExample`
